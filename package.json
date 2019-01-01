@@ -1,0 +1,20 @@
+{
+  "name": "megalo-build",
+  "version": "1.0.0",
+  "description": "* @megalo/target => 构建目标 * @megalo/template-compiler => 模板编译器 * @megalo/env-plugin => 注入环境变量process.env.PLATFORM和process.env.NODE_ENV * vue-loader => 加载和解析.vue文件 * mini-css-extract-plugin => 将css提取到.wxss文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vue-loader": "^15.4.2",
+    "vue-template-compiler": "^2.5.21",
+    "webpack": "^4.28.3",
+    "webpack-chain": "^5.0.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {}
+}
